@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello👋 
+Welcome to my Github profile!
 
-<!--
-**isadorasilva22/isadorasilva22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+ 
+ I'm 21 years old and I started thinking about study technology watching people at work. I started college a year ago and I can't wait to keep learning more and more!
+ 
+# Languages
 
-Here are some ideas to get you started:
+  Currently I'm enrolled in a Systems Analysis and Development course. In this course I've learned about Python and some of its libraries, SQL Language and Web Development (using HTML, CSS and JavaScript), for example. I want to focus more in Python, JavaScript and later I want to learn more about the front-end area, focusing in CSS and some frameworks like React and Angular. 
+  
+# How to reach me 😄 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: https://www.linkedin.com/in/isadora-silva-124192257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
